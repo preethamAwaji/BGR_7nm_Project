@@ -1,0 +1,32 @@
+# Simulation outputs
+*.raw
+*.log
+*.out
+*.txt
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Xschem temporary files
+*.sch~
+*.sym~
+
+# Ngspice temporary files
+*.print
+*.measure
+
+# Backup files
+*.old
